@@ -1,2 +1,2 @@
 # pikachu
-[preview](./pre/pre.png)
+![preview](./pre/pre.png)
